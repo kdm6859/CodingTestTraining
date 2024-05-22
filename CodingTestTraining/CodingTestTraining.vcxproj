@@ -130,6 +130,13 @@
     <ClCompile Include="0x03\0x03_0x01연습문제.cpp" />
     <ClCompile Include="0x03\0x03_10808_알파벳개수.cpp" />
     <ClCompile Include="0x03\0x03_array_test.cpp" />
+    <ClCompile Include="0x04\0x04_boj_1158_요세푸스.cpp" />
+    <ClCompile Include="0x04\0x04_boj_1406_에디터.cpp" />
+    <ClCompile Include="0x04\0x04_boj_5397_키로거.cpp" />
+    <ClCompile Include="0x04\0x04_linked_list_test.cpp" />
+    <ClCompile Include="0x05\0x05_boj_10773_제로.cpp" />
+    <ClCompile Include="0x05\0x05_boj_10828_스택.cpp" />
+    <ClCompile Include="0x05\0x05_stack_test.cpp" />
     <ClCompile Include="1강_4.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
